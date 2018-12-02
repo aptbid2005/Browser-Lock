@@ -17,8 +17,6 @@
 //	My.Computer.Registry, and My.Computer.Screen are converted inline.
 //----------------------------------------------------------------------------------------
 
-using Microsoft.VisualBasic.Devices;
-
 namespace BrowserLock.My
 {
 	public static class Computer

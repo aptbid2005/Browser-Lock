@@ -4,8 +4,6 @@
 //
 //	The methods in this class replicate the behavior of IsDate and DateDiff.
 //----------------------------------------------------------------------------------------
-using System;
-using System.Globalization;
 
 public static class DateHelper
 {

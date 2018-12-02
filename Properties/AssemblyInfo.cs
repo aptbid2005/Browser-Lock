@@ -1,14 +1,6 @@
 ﻿//INSTANT C# NOTE: Formerly VB project-level imports:
-using System.Collections;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Diagnostics;
-using System.Windows.Forms;
-using System.Resources;
 
-using System;
-using System.Reflection;
-using System.Runtime.InteropServices;
+
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information

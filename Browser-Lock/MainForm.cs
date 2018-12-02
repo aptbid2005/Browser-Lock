@@ -1,8 +1,5 @@
 ﻿//INSTANT C# NOTE: Formerly VB project-level imports:
-
-using System.Drawing;
-using System.Diagnostics;
-using System.Windows.Forms;
+using System;
 
 namespace BrowserLock
 {
